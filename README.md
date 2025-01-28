@@ -22,6 +22,6 @@
     contact:
     <a href="mailto:hello@sxip.dev">hello@sxip.dev</a><br>
     twt:
-    <a href="https://twitter.com/sxipwastaken">@sxipwastaken</a><br><br>
+    <a href="https://x.com/0xsxip">@sxipwastaken</a><br><br>
   </samp>
 </div>
